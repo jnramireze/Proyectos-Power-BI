@@ -1,0 +1,7 @@
+{
+"name":"University of Melbourne",
+"dataColors":["#003366", "#A8C5E0", "#214F80", "#A4D3E3", "#82A1BD", "#366996", "#304E64", "#004576", "#666666", "#000000", "#0C304A", "#0076DE"],
+"background":"#F5F8FC",
+"foreground":"#003366",
+"tableAccent":"#214F80"
+}
