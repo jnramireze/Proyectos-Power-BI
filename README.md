@@ -157,7 +157,7 @@ Total Ordenes PU Alto = CALCULATE([Total Ordenes], FILTER(DimProduct, DimProduct
 
 Total Ingresos X = SUMX(FactSales, FactSales[CantidadTotal] * RELATED(DimProduct[UnitPrice]))
 
-# Módulo: Funciones de Time Intelligence
+## Módulo: Funciones de Time Intelligence
 
 YTD Ingresos = CALCULATE([Total Ingresos], DATESYTD(DimCalendar[DateKey]))
 
@@ -165,7 +165,7 @@ YTD Ingresos 2 = TOTALYTD([Total Ingresos],DimCalendar[DateKey])
 
 MTD Ingresos = TOTALMTD([Total Ingresos],DimCalendar[DateKey])
 
-# Módulo: Funciones de Variación
+## Módulo: Funciones de Variación
 
 Total Ingresos LY = CALCULATE([Total Ingresos], SAMEPERIODLASTYEAR(DimCalendar[DateKey]))
 
