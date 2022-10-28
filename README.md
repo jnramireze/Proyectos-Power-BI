@@ -2,6 +2,7 @@
 # 📊 **Proyectos personales realizados en Power BI** 📊
 
 📈 Proyecto 01 - Ventas historicas de videojuegos.
+[Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjkyYTY1YWQtZDlhNC00YWJkLTgyMDAtYzkyN2QxNjk1OTUzIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
 
 📈 Proyecto 02 (Parte 1) - Analisís de la población por continente y país.
 
@@ -11,7 +12,7 @@
 
 📈 Proyecto 04 - Finanzas Personales (Ingresos, Gastos, Utilidad, Saldo).
 
-📈 Proyecto 05 - Proyecto DAX 
+📈 Proyecto 05 - Proyecto DAX. 
 [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWIwYjY2OGMtMDE4Ny00MGUxLWI4MjItNzk3OGJjMzQwZWY1IiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9&pageName=ReportSection9834bed03828d8011034)
 
 #
