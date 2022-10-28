@@ -4,9 +4,9 @@
 📈 Proyecto 01 - Ventas historicas de videojuegos.
 [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjkyYTY1YWQtZDlhNC00YWJkLTgyMDAtYzkyN2QxNjk1OTUzIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
 
-📈 Proyecto 02 (Parte 1) - Analisís de la población por continente y país.
+📈 Proyecto 02 (Parte 1) - Analisís de la población por continente y país. [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQzNTU4M2YtNzgzNC00NGI0LWFjNWEtYWFlZDk3ZDE1OGJjIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
 
-📉 Proyecto 02 (Parte 2) - Analisís de mortalidad y esperanza de vida por regiones.
+📉 Proyecto 02 (Parte 2) - Analisís de mortalidad y esperanza de vida por regiones. [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQzNTU4M2YtNzgzNC00NGI0LWFjNWEtYWFlZDk3ZDE1OGJjIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
 
 📈 Proyecto 03 - Reporte de RRHH (Analisis de sueldos y Evaluación de Desempeño).
 
