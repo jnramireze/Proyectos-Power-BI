@@ -1,5 +1,5 @@
 # Proyectos-Power-BI
-# 📊 **Proyectos personales realizados en Power BI** 📊
+# 📊 **Proyectos realizados en Power BI** 📊
 
 📈 Proyecto 01 - Ventas historicas de videojuegos.
 [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjkyYTY1YWQtZDlhNC00YWJkLTgyMDAtYzkyN2QxNjk1OTUzIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
