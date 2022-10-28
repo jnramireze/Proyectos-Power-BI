@@ -8,7 +8,7 @@
 
 📉 Proyecto 02 (Parte 2) - Analisís de mortalidad y esperanza de vida por regiones. [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQzNTU4M2YtNzgzNC00NGI0LWFjNWEtYWFlZDk3ZDE1OGJjIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
 
-📈 Proyecto 03 - Reporte de RRHH (Analisis de sueldos y Evaluación de Desempeño). [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyMDBiMWYtNWY4YS00OTUxLWE4ODItN2E4Yjc2OGM1MjUyIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9)
+📈 Proyecto 03 - Reporte de RRHH (Analisis de sueldos y Evaluación de Desempeño). [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyMDBiMWYtNWY4YS00OTUxLWE4ODItN2E4Yjc2OGM1MjUyIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9&pageName=ReportSection)
 
 📈 Proyecto 04 - Finanzas Personales (Ingresos, Gastos, Utilidad, Saldo).
 [Enlace a dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTEzMDM1MzctOTliZi00OTdhLTlmMWEtYzQ3NTEwYjJjNTRmIiwidCI6IjQ3YWU4MzQxLTE4YjQtNDM3NC04YzU5LTQ3NDc4ZjIxZjdhYSJ9&pageName=ReportSection)
